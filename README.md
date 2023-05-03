@@ -1,3 +1,3 @@
 # clicker_demo
 
-This is a clicker game made with flutter and firebase.
+This is a demo for a clicker game made with flutter and firebase.
